@@ -1,3 +1,7 @@
+## node+vue3项目创建
+
+[根据]: https://www.bilibili.com/video/BV1eK421b78V/?vd_source=c124d23df1d97b4f5b0dd0bfb85e84ad
+
 node版本：18.16.0
 
 ### 前端：
@@ -42,3 +46,4 @@ pnpm install cors(*解决跨域问题*)
 路由层：router(*监听路由进行不同的操作*)
 
 服务层：service(*对数据的具体操作*)
+
